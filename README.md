@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hsun</h1>
 <h3 align="center">A passionate Backend developer from Taiwan</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsun1031)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on [DHT11Firebase](https://github.com/Hsun1031/DHT11Firebase)
 
 
