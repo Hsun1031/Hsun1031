@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Backend developer from Taiwan</h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsun1031&layout=compact)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsun1031&count_private=true&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsun1031&layout=compact)](https://github.com/Hsun1031/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsun1031&count_private=true&theme=tokyonight)](https://github.com/Hsun1031/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hsun1031&repo=DHT11Firebase&theme=tokyonight)](https://github.com/Hsun1031/DHT11Firebase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hsun1031&repo=Esp32_Arduino_I2C&theme=tokyonight)](https://github.com/Hsun1031/Esp32_Arduino_I2C)
 
