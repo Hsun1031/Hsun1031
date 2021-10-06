@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hsun</h1>
 <h3 align="center">A passionate Backend developer from Taiwan</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsun1031)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hsun1031&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hsun1031&repo=convoychat" />
+</a>
 
 - 🔭 I’m currently working on [DHT11Firebase](https://github.com/Hsun1031/DHT11Firebase)
 
