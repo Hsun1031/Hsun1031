@@ -1,21 +1,137 @@
-<h1 align="center">Hi 👋, I'm Hsun</h1>
-<h3 align="center">A passionate Backend developer from Taiwan</h3>
+# Hi, I'm Hsun
 
-<h3>Most Used Languages</h3>
+Backend Developer from Taiwan
+Focused on backend architecture, cloud deployment, and embedded systems integration. <br>
+🌐 **Language**: [English](https://github.com/Hsun1031/Hsun1031/blob/master/README.md) / [繁體中文](https://github.com/Hsun1031/Hsun1031/blob/master/README_zh_TW.md) / [日本語](https://github.com/Hsun1031/Hsun1031/blob/master/README_JP.md)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsun1031&layout=compact)<br>
+## 📊 Most Used Languages
 
-<h3>Hsun's GitHub</h3>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Hsun1031\&theme=tokyonight\&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsun1031&count_private=true&theme=tokyonight&show_icons=true)<br>
+## 📈 GitHub Statistics
 
-<h3>🔭 I’m currently working on <a href="https://github.com/Hsun1031/DHT11Firebase">DHT11Firebase</a></h3>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hsun1031\&count_private=true\&theme=tokyonight\&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hsun1031&repo=DHT11Firebase&theme=tokyonight)](https://github.com/Hsun1031/DHT11Firebase)<br>
+# 🎓 University Capstone Project — Equipment as a Service (EaaS)
 
-<h3><a href="https://github.com/Hsun1031/Esp32_Arduino_I2C">Esp32_Arduino_I2C</a></h3>
+A full-stack system integrating frontend, backend services, cloud deployment, and embedded automation. <br>
+[111KNUIM EaaS Repositories](https://github.com/111KNUIM-EaaS/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hsun1031&repo=Esp32_Arduino_I2C&theme=tokyonight)](https://github.com/Hsun1031/Esp32_Arduino_I2C)<br>
+### 🌐 Website
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+**Repo:** [https://github.com/111KNUIM-EaaS/website](https://github.com/111KNUIM-EaaS/website)
+
+* React.js
+* Docker containerization
+* CI/CD with GitHub Actions
+* Deployment on Google Cloud Platform (GCP)
+
+![Website Repo](https://github-stats-extended.vercel.app/api/pin/?username=111KNUIM-EaaS\&repo=website\&theme=tokyonight)
+
+### 🗃️ Backend (Express)
+
+**Repo:** [https://github.com/111KNUIM-EaaS/server_express](https://github.com/111KNUIM-EaaS/server_express)
+
+* Node.js + Express
+* Firebase integration
+* Dockerized service
+* Automated deployment to GCP via GitHub Actions
+
+![Backend Repo](https://github-stats-extended.vercel.app/api/pin/?username=111KNUIM-EaaS\&repo=server_express\&theme=tokyonight)
+
+### 🚚 Automation Guided Vehicle
+
+**Repo:** [https://github.com/111KNUIM-EaaS/automation-guided-vehicle](https://github.com/111KNUIM-EaaS/automation-guided-vehicle)
+
+* ESP32 firmware development
+* PlatformIO environment
+* Firmware CI/CD with GitHub Actions
+
+![AGV Repo](https://github-stats-extended.vercel.app/api/pin/?username=111KNUIM-EaaS\&repo=automation-guided-vehicle\&theme=tokyonight)
+
+# MakerbaseMoon — 望月智聯網研究團隊 Projects
+
+Technical open-course teaching materials developed in Taiwan, focusing on IoT systems and embedded development. <br>
+[MakerbaseMoon Repositories](https://github.com/MakerbaseMoon)
+
+## 🧹 Robot Vacuum Cleaner (4th Generation) — 2023.03.23
+
+Role: ESP32 Firmware & Website HTTP API
+
+### ESP32 Firmware
+
+**Repo:** [https://github.com/MakerbaseMoon/cleaner-4th-esp32](https://github.com/MakerbaseMoon/cleaner-4th-esp32)
+
+* ESP32 firmware development
+* PlatformIO
+* Firmware CI/CD with GitHub Actions
+
+### Website
+
+**Repo:** [https://github.com/MakerbaseMoon/cleaner-4th-website](https://github.com/MakerbaseMoon/cleaner-4th-website)
+
+* React.js
+* Bootstrap 5
+* GitHub Actions build → generate `website.h` for ESP32 firmware
+
+![Cleaner ESP32](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon\&repo=cleaner-4th-esp32\&theme=tokyonight)
+![Cleaner Website](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon\&repo=cleaner-4th-website\&theme=tokyonight)
+
+## 🛰 3D Scanner (1st Generation) — 2024.08.22
+
+Role: ESP32 Firmware & Website HTTP API
+
+GitHub Page Demo: [https://makerbasemoon.github.io/3d_scanner_nextjs/](https://makerbasemoon.github.io/3d_scanner_nextjs/)
+
+### ESP32 Firmware
+
+**Repo:** [https://github.com/MakerbaseMoon/3d_scanner_esp](https://github.com/MakerbaseMoon/3d_scanner_esp)
+
+* ESP32 firmware development
+* GitHub Codespaces + DevContainer + PlatformIO
+* WebUSB flashing via Codespaces
+* Firmware CI/CD with selectable version deployment
+
+### Website
+
+**Repo:** [https://github.com/MakerbaseMoon/3d_scanner_nextjs](https://github.com/MakerbaseMoon/3d_scanner_nextjs)
+
+* TypeScript / Next.js
+* Bootstrap 5
+* Axios
+* GitHub Actions build → generate `website.h` for ESP32 firmware
+
+![3D Scanner ESP32](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon\&repo=3d_scanner_esp\&theme=tokyonight)
+![3D Scanner Website](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon\&repo=3d_scanner_nextjs\&theme=tokyonight)
+
+## 📊 AIoT Devices Dashboard (2nd Generation) — 2022.07.21
+
+**Repo:** [https://github.com/MakerbaseMoon/AIot-Devices-Dashboard_2nd](https://github.com/MakerbaseMoon/AIot-Devices-Dashboard_2nd)
+
+* ESP-IDF
+* Python Flask
+* Firebase
+
+![AIoT Dashboard](https://github-stats-extended.vercel.app/api/pin/?username=MakerbaseMoon\&repo=AIot-Devices-Dashboard_2nd\&theme=tokyonight)
+
+# 🧪 Personal Projects
+
+## 🔭 ESP_Git_OTA (Currently Paused)
+
+**Repo:** [https://github.com/Hsun1031/ESP_Git_OTA](https://github.com/Hsun1031/ESP_Git_OTA)
+
+* ESP32 OTA firmware updates via GitHub
+* Automated firmware version control
+
+![ESP\_Git\_OTA](https://github-stats-extended.vercel.app/api/pin/?username=Hsun1031\&repo=ESP_Git_OTA\&theme=tokyonight)
+
+## 🛠 ESP32 PlatformIO Dev Environment
+
+**Repo:** [https://github.com/Hsun1031/devcontainer_platformio](https://github.com/Hsun1031/devcontainer_platformio)
+
+* Preconfigured DevContainer
+* Optimized for GitHub Codespaces
+* Integrated PlatformIO workflow
+
+![DevContainer](https://github-stats-extended.vercel.app/api/pin/?username=Hsun1031\&repo=devcontainer_platformio\&theme=tokyonight)
+
